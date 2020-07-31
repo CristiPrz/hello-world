@@ -1,5 +1,5 @@
 # hello-world
 
-Hello, I'm Cristi.
+Hello, I'm Cristy.
 
 :)
